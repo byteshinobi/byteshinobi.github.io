@@ -16,7 +16,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: null
+theme: minima
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -28,3 +28,4 @@ exclude:
 - node_modules
 - vendor
 - .gitignore
+- .bundle
