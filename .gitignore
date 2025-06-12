@@ -1,0 +1,27 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler dependencies
+/vendor/bundle/
+
+# Byebug command history
+.byebug_history
+
+# Mac system files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Ruby specific
+*.gem
+*.rbc
+
+# Log files
+*.log
+
+# Node modules (if you ever use npm/yarn for assets)
+node_modules/ 
