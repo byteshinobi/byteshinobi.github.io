@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: 2024-03-20
+date: 2025-06-12
 categories: [general]
 ---
 
-# Welcome to My Blog
+# Welcome!
 
 Hello and welcome to my new blog! This is my first post using GitHub Pages and Jekyll. I'm excited to share my thoughts and experiences with you.
 
@@ -15,6 +15,4 @@ In this blog, I'll be sharing:
 - Technical tutorials and guides
 - Project updates and showcases
 - Thoughts on technology and software development
-- And much more!
-
-Stay tuned for more content coming soon! 
+- etc.

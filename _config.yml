@@ -9,8 +9,10 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-title: Byteshinobi
-description: Personal website and blog
+title: byteshinobi
+description: code
+linkedin_username: jerejohnson
+show_excerts: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
